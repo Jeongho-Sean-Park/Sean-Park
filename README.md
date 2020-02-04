@@ -1,2 +1,3 @@
 # Sean-Park
-## MLnC
+## MLnC Lab
+## AIMath Lab
